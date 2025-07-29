@@ -1,0 +1,21 @@
+name: SkySurge
+main: com.kinscripts.skysurge.SkySurge
+version: 1.0
+api-version: 1.16
+author: Kin
+description: Lightweight custom flight toggle system
+
+commands:
+  flight:
+    description: Toggle flight for yourself or another player
+    usage: /flight [player]
+    permission: skysurge.toggle
+    permission-message: You don't have permission to do that.
+
+permissions:
+  skysurge.toggle:
+    description: Allows player to toggle flight
+    default: true
+  skysurge.toggle.others:
+    description: Allows toggling flight for others
+    default: op
