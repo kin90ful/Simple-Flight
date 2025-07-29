@@ -1,5 +1,3 @@
-# Security Policy
-
 ## Supported Versions
 
 Current versions this plugin is supported on.
