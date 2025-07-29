@@ -17,3 +17,4 @@ Current versions this plugin is supported on.
 
 Little to no updates will be displayed on this plugin. This is a documentation plugin only. and will most likely not be updated..
 This plugin was created in Kotlin.
+Spigot or Paper server will run in both.
